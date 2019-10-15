@@ -34,31 +34,57 @@ Add photos, notes, and sketches from your brain storming session.
     
     BASIC PLAN:
     1. Set up basic VC and files in Main Storyboard
-        a. Initial VC
+       
+       a. Initial VC
+        
         b. Instruction VC
+        
         c. View Med Table VC
+        
         d. Add/Edit Med VC
-    3. Configure Initial VC & Instruction VC
+   
+   3. Configure Initial VC & Instruction VC
+        
         a. Create buttons and configure respective segues in Initial VC
+       
         b. Write instructions in Instruction VC
+    
     4. Configure Med Table VC
+        
         a. Create & configure Model and Model Controller(s)
+        
         b. Create and Configure Cell Class
+        
         c. Create buttons and connect Add/Edit Med VC
+    
     5. Configure  Add/Edit Med VC
+        
         a. Create and connect buttons and labels
+        
         b. Configure persistence
+        
         c. Configure timers and alerts for each medication
+        
+        
         STRETCH GOALS:
     6. Configure Calendar/Next Med List
+        
         a. Have Initial VC show Day/Time/Medication/Dosage of next med
+        
         b. Add Calendar (table?) VC to main storyboard and create class
+        
         c. Show upcoming medication in chronological order (allow user to pick list or calendar view?)
+        
         d. Update persistence and properties to include whether or not the user took meds on time or at all.
+        
         e. Have historical med reminders show as red if not taken or green if taken (optional)
+    
     7. Configure Print VC
+        
         a. Add Print VC and related button+segue in Initial VC and create PrintVC class
+        
         b. Add and connect buttons to print in either simplified or detailed (historical) views
+        
         c. Configure simplified and historical view functionality
         
 

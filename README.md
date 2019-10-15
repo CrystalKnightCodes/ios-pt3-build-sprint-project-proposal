@@ -16,7 +16,7 @@ Track your medications and supplements with ease!  This app will help you rememb
 
 Add photos, notes, and sketches from your brain storming session. 
 
-1. Brainstorming (Photo / Sketch) (I will add this sketch tomorrow before class)
+1. Brainstorming (Photo / Sketch) ![IMG_1944](https://user-images.githubusercontent.com/54729577/66876958-a3d55e80-ef81-11e9-8413-dac8dd75150a.jpeg)
     1. 15 min: Mind Map 
     2. 15 min: Organize ideas
     3. 10 min: Sketch mock ups 
